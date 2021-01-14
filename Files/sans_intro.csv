@@ -1,4 +1,3 @@
-0,Sound,mus_zz_megalovania,0,,,,,
 0,SansAnimation,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
 0,SansText,ready?,,,,,,,
@@ -95,7 +94,7 @@
 6,SansTorso,Shrug,
 0,SansHead,ClosedEyes,
 0,SansText,you won't give up that                    easily will you?
-0,EndAttack,
+0,EndAttack,,,,,,,,,,,,,,
 
 
 
