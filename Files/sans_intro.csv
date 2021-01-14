@@ -1,3 +1,4 @@
+0,Sound,mus_zz_megalovania,0,,,,,
 0,SansAnimation,,,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
 0,SansText,ready?,,,,,,,
@@ -77,4 +78,4 @@
 0,GasterBlaster,1,$X,$Y,300,160,62,4,1
 6,SansTorso,Shrug,
 0,SansHead,ClosedEyes,
-0,EndAttack,,,,,,,,,,,,,,
+0,EndAttack
